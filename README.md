@@ -19,7 +19,7 @@
 
 ## 📂 Projects
 
-### 🔗 Sustainable Transportation Coordinator (https://github.com/NeXrolex/-Sustainable-Transporta-tionCoordinator#sustainable-transportation-coordinator)
+### 🔗 [Sustainable Transportation Coordinator] (https://github.com/NeXrolex/-Sustainable-Transporta-tionCoordinator#sustainable-transportation-coordinator)
 > university collaborative project.
 Smart parking management system designed to reduce environmental 
 and structural issues across the engineering faculty campus.
